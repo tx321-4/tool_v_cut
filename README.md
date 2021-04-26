@@ -5,6 +5,14 @@
 *  自动遍历文件夹中的视频
 
 
+### 初始化项目
+* 全局安装`express` 
+  * npm install -g express
+* 全局安装`express` 项目生成器 
+  * npm install express-generator -g
+* 创建项目 express 项目名
+  * express app
+
 ### 技能
 * express
 * fluent-ffmpeg ！！！！重点
