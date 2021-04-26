@@ -9,6 +9,7 @@ router.get('/', function(req, res, next) {
 
 // 创建视频截图
 router.get('/videocut',videocut.vcut);
+router.get('/videocut2',videocut.vcut2);
 
 
 module.exports = router;
